@@ -67,7 +67,7 @@
 
 * [Our Team](team/our-team.md)
 * [Community Team](team/community-team.md)
-* [Acknoledgements](team/acknoledgements.md)
+* [Acknowledgements](team/acknoledgements.md)
 
 ## Legal Disclaimer
 
