@@ -9,7 +9,7 @@ In Kolin, we consider that Education must be considered a universal right and sh
 
 Technology must be used for fomenting human interaction and not vice versa, thus, Kolin is focused on the user needs rather than in the product itself. “The future of work is less about technology and more about the meaning we find within it” Ben Hammersley.
 
-![](../.gitbook/assets/image%20%286%29.png)
+
 
 **Felipe A. Millacura**
 
