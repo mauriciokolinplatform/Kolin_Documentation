@@ -16,7 +16,7 @@
 
 - 500 million Kolin reserved for advisors.
 
-![](../.gitbook/assets/image%20%2810%29.png)
+![](../.gitbook/assets/image%20%2814%29.png)
 
 ![](file:///C:/Users/FELIPE~1.MIL/AppData/Local/Temp/msohtmlclip1/01/clip_image002.gif)
 

@@ -6,5 +6,5 @@ Thereafter the user will use the Kolin payment API that will generate a bill con
 
 
 
-![Kolin Platform private functionality](../.gitbook/assets/image%20%2815%29.png)
+![Kolin Platform private functionality](../.gitbook/assets/image%20%2822%29.png)
 

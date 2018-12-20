@@ -9,7 +9,7 @@ Sponsored or not \(true/false\): True
 
 Transaction fee: 200 Kolin
 
-![https://kolinplatform.com](../.gitbook/assets/image%20%2813%29.png)
+![https://kolinplatform.com](../.gitbook/assets/image%20%2820%29.png)
 
 
 
