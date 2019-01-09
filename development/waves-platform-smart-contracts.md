@@ -18,3 +18,9 @@ RIDE has smart accounts and smart assets for embedding the calculation system. T
 
 5. Evaluation.
 
+Kolin will incorporate a hybrid added value by using a hybrid Data Storage and Data processing system
+
+Data Storage is represented by traditional databases for storing data off-chain. The blockchain provides distributed, immutable storage with built-in integrity checking; however, it has a maximum capacity based on the standard block size and block rate. To provide integrity verification for large amounts of data, it is common to store the data off-chain and store a hash of the data on-chain. This guarantees that the data is not been modified while protecting the blockchain from becoming bloated.
+
+Data Processing is represented by an external system used for additional processing. Smart contracts execute on the blockchain, meaning that each member of the peer network must execute the code to remain in sync with the current state of the network. If smart contracts commonly require large amounts of processing power to complete, devices external to the peer network may be used to augment the processing power of the network.
+
