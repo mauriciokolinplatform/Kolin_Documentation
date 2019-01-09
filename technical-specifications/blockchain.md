@@ -1,6 +1,6 @@
 # Blockchain
 
-Kolin was created on the decentralised Waves network. This network counts with...
+Kolin was created on the decentralised Waves network. 
 
 Name: Kolin
 
