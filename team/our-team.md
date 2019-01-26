@@ -116,7 +116,7 @@
           <img src="../.gitbook/assets/image (19).png" alt/>
         </p>
       </td>
-      <td style="text-align:left"><b>Mauricio Estephan. </b>Electromechanical Engineer, Crypto trader and
+      <td style="text-align:left"><b>Aaron Rojas. </b>Electromechanical Engineer, Crypto trader and
         Investor. Social Manager, Spanish and English speaker.</td>
     </tr>
     <tr>
