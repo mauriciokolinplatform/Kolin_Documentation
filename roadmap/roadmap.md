@@ -17,9 +17,13 @@
 | **2018/Q4** | Smart contract activation \(freezing of team account\) | 01/10/2018 |
 |  | Crex24 exchange listing | 04/10/2018 |
 |  | Kompler exchange listing | 20/10/18 |
-|  | Coinmarketcap application | TBA |
-|  | Other centralized exchanges application | TBA |
-| **2019/Q1:** | KOLIN private alpha version | TBA |
+|  | STEX exchange listing | 11/12/18 |
+|  | Cryptonex exchange listing | 17/12/18 |
+| **2019/Q1:** | Verisafe approved project | 01/02/2019 |
+|  | KOLIN private alpha version | TBA |
+|  | Waves Labs application | Under review |
+|  | Bettertokens application | Under review |
+|  | Coinmarketcap application | Under review |
 | **2019/Q2:** | KOLIN private beta version | TBA |
 | **2019/Q3:** | KOLIN public alpha version | TBA |
 | **2019/Q4:** | KOLIN for Android & iOS | TBA |
