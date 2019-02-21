@@ -1,7 +1,8 @@
 # Founders Message
 
-  
-As more you interact with people from different cultures parts of their stories become part of your own. Each individual is unique, and cultures are mixes of these unique people, that is why language is an essential component on the society functionality. Instead of trying to create a universal language, Kolin offers an alternative solution where International interaction is possible and cultures preserved. Kolin will be the first decentralised centre for translation and information exchange. Kolin’s users will help each other via language decoding, either simplifying technical language or translating between different languages. Therefore, Kolin will become a strong weapon on the fight for generating a more inclusive world.
+
+  
+While more you interact with people from different cultures parts of their stories become part of your own. Each individual is unique, and cultures are mixes of these unique people, that is why language is an essential component of the society functionality. Instead of trying to create a universal language, Kolin offers an alternative solution where International interaction is possible and cultures preserved. Kolin will be the first decentralised centre for translation and information exchange. Kolin’s users will help each other via language decoding, either simplifying technical language or translating between different languages. Therefore, Kolin will become a strong weapon on the fight for generating a more inclusive world.
 
 Millions of brilliant minds struggle daily for not having access to information in their native language and/or give up because technical information is not published in an understandable format. Considering that creativity increases in intercultural groups, this decentralized platform will be a game changer as uses technology for benefiting human interaction and considers interculturality its core feature.
 
