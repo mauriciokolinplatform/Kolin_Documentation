@@ -51,7 +51,7 @@
         IT experience at corporative level; with clear skill and high orientation
         in planning, organization, direction and problem control.</td>
     </tr>
-    <tr hidden>
+  <!--    <tr>
       <td style="text-align:left">
         <img src="../.gitbook/assets/image (5).png" alt/>
       </td>
@@ -60,7 +60,7 @@
         others. Involved in social causes related to children, poverty and education.
         Cryptocurrency investor. Spanish speaker.</td>
     </tr>
-    <tr>
+    <tr> -->
       <td style="text-align:left">
         <img src="../.gitbook/assets/image (23).png" alt/>
       </td>
@@ -68,7 +68,7 @@
         trader and investor interested in technical analysis and algorithmic trading.
         Aspiring creative writer. English and Mandarin Chinese speaker.</td>
     </tr>
-    <tr type="hidden">
+   <!-- <tr>
       <td style="text-align:left">
         <img src="../.gitbook/assets/image (16).png" alt/>
       </td>
@@ -78,7 +78,7 @@
         computing. Currently, pursuing interests in biotech and synthetic biology.
         English speaker.</td>
     </tr>
-    <tr>
+    <tr> -->
       <td style="text-align:left">
         <p></p>
         <p>
