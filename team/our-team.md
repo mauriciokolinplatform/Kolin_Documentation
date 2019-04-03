@@ -51,7 +51,7 @@
         IT experience at corporative level; with clear skill and high orientation
         in planning, organization, direction and problem control.</td>
     </tr>
-    <tr class="hidden">
+    <tr hidden>
       <td style="text-align:left">
         <img src="../.gitbook/assets/image (5).png" alt/>
       </td>
