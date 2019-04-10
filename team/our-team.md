@@ -1,17 +1,14 @@
 # Our Team
 
 <table>
-  <thead>
-   
+  <thead>   
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">
-        <p></p>
+      <td style="text-align:left"> 
         <p>
           <img src="../.gitbook/assets/image (24).png" alt/>
         </p>
-        <p></p>
       </td>
       <td style="text-align:left">
         <p><b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
