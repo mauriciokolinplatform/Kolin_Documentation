@@ -2,11 +2,7 @@
 
 <table>
   <thead>
-    <tr>
-      <th style="text-align:left"></th>
-      <th style="text-align:left"><b></b>
-      </th>
-    </tr>
+   
   </thead>
   <tbody>
     <tr>
