@@ -11,21 +11,18 @@
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
+        <p>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
           within Youth action 2014 organized by the International Youth Foundation.
           With experience in HTML5, CSS, Javascript, Python and Linux OS. Involved
           in social causes related to children, poverty, cancer research and education.
-          Cryptocurrency trader and investor. Spanish & English speaker.</p>
-        <p></p>
+      Cryptocurrency trader and investor. Spanish & English speaker.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image (1).png" alt/>
         </p>
-        <p></p>
       </td>
       <td style="text-align:left"><b>Maria Victoria Del Castillo.</b> English teacher with more than 8 years
         of experience teaching children, adults, vulnerable students and with special
@@ -34,7 +31,6 @@
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image (13).png" alt/>
         </p>
@@ -52,8 +48,8 @@
         experience in Talend, Datastage, Laravel, C+, Python, Javascript among
         others. Involved in social causes related to children, poverty and education.
         Cryptocurrency investor. Spanish speaker.</td>
-    </tr>
-    <tr> -->
+    </tr>-->
+    <tr> 
       <td style="text-align:left">
         <img src="../.gitbook/assets/image (23).png" alt/>
       </td>
@@ -70,8 +66,8 @@
         institutes as well as the science community. Speciality in high performance
         computing. Currently, pursuing interests in biotech and synthetic biology.
         English speaker.</td>
-    </tr>
-    <tr> -->
+    </tr>-->
+    <tr> 
       <td style="text-align:left">
         <p></p>
         <p>
