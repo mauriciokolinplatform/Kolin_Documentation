@@ -114,5 +114,13 @@
       </td>
       <td style="text-align:left"><b>Greg Chiurcciu</b>. Social media manager. English and Russian speaker.</td>
     </tr>
+    <tr>
+      <td style="text-align:left">
+        <p>
+          <img src="../.gitbook/assets/image (25).jpg" alt/>
+        </p>
+      </td>
+      <td style="text-align:left"><b>Aaron Robinson</b>. Social media manager. English speaker.</td>
+    </tr>
   </tbody>
 </table>
