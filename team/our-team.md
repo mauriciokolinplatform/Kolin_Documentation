@@ -11,7 +11,7 @@
         </p>
       </td>
       <td style="text-align:left">
-        <p>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
+        <p><b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
           within Youth action 2014 organized by the International Youth Foundation.
           With experience in HTML5, CSS, Javascript, Python and Linux OS. Involved
           in social causes related to children, poverty, cancer research and education.
@@ -51,7 +51,9 @@
     </tr>-->
     <tr> 
       <td style="text-align:left">
+        <p>
         <img src="../.gitbook/assets/image (23).png" alt/>
+        </p>
       </td>
       <td style="text-align:left"><b>Yiyu Xiang.</b> Synthetic Biologist in genetic logic circuits. Cryptocurrency
         trader and investor interested in technical analysis and algorithmic trading.
@@ -69,7 +71,6 @@
     </tr>-->
     <tr> 
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image (17).png" alt/>
         </p>
@@ -79,7 +80,6 @@
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image.png" alt/>
         </p>
@@ -90,7 +90,6 @@
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image (4).png" alt/>
         </p>
@@ -100,7 +99,6 @@
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image (19).png" alt/>
         </p>
@@ -110,7 +108,6 @@
     </tr>
     <tr>
       <td style="text-align:left">
-        <p></p>
         <p>
           <img src="../.gitbook/assets/image (2).png" alt/>
         </p>
