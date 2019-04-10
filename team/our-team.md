@@ -10,13 +10,11 @@
           <img src="../.gitbook/assets/image (24).png" alt/>
         </p>
       </td>
-      <td style="text-align:left">
-        <b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
-          within Youth action 2014 organized by the International Youth Foundation.
+      <td style="text-align:left"><b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Youth action 2014 
+        semi-finalist, organized by the International Youth Foundation.
           With experience in HTML5, CSS, Javascript, Python and Linux OS. Involved
           in social causes related to children, poverty, cancer research and education.
-      Cryptocurrency trader and investor. Spanish & English speaker.
-      </td>
+      Cryptocurrency trader and investor. Spanish & English speaker.</td>
     </tr>
     <tr>
       <td style="text-align:left">
