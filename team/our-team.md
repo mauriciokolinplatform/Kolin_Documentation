@@ -11,11 +11,11 @@
         </p>
       </td>
       <td style="text-align:left">
-        <p><b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
+        <b>Felipe A. Millacura.</b> MSc and Eng. in Biotechnology. Semi-finalist
           within Youth action 2014 organized by the International Youth Foundation.
           With experience in HTML5, CSS, Javascript, Python and Linux OS. Involved
           in social causes related to children, poverty, cancer research and education.
-      Cryptocurrency trader and investor. Spanish & English speaker.</p>
+      Cryptocurrency trader and investor. Spanish & English speaker.
       </td>
     </tr>
     <tr>
