@@ -37,9 +37,9 @@
 |  | Kolin voting release | 31/05/2019 |
 |  | Kolin graphical brand rebranding  | 31/05/2019 |
 | **2019/Q3:** | Kolin listing in new Fanaticos Crypto exchange (ex Kompler) | TBA |
-|  | Kolin listing in new Kubo exchange (ex CryptoHub)  | 31/05/2019 |
+|  | Kolin listing in new Kubo exchange (ex CryptoHub)  | TBA |
 | **2019/Q4:** | |  |
-| **2020/Q1:** |  | TBA |
+| **2020/Q1:** |  |  |
 | **TBA** | ISO17100 application | TBA |
 | **2020/Q2** | Unfreeze of team share allowing further developments. | 20/06/2020 |
 
