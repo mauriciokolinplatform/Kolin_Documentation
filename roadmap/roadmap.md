@@ -43,5 +43,5 @@
 | **2019/Q4:** |Kolin Launch | TBA |
 |  | Kolin chat release  | TBA |
 | **2020** | ISO17100 application | TBA |
-| **2020** | Unfreeze of team share allowing further developments. | 20/06/2020 |
+| **2020** | Unfreeze of team share. | 20/06/2020 |
 
