@@ -25,7 +25,6 @@
 |  |  Five (5) billion Kolin burn  | 28/02/2019 |
 |  |  Explorer and Whitelist release  | 02/03/2019 |
 |  | SWFT exchange listing | 24/03/2019 |
-
 | **2019/Q2:** | KOLIN alpha version release | 01/04/2019 |
 |  | BLEUTRADE exchange listing | 01/04/2019 |
 |  | Start collaboration with Translate5 | 25/04/2019 |
