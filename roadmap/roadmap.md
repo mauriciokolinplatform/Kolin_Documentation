@@ -15,19 +15,31 @@
 |  | KOLIN present on Coinmarketcal | 20/09/2018 |
 |  | KOLIN's whitepaper release | 01/10/2018 |
 | **2018/Q4** | Smart contract activation \(freezing of team account\) | 01/10/2018 |
-|  | Crex24 exchange listing | 04/10/2018 |
-|  | Kompler exchange listing | 20/10/18 |
+|  | CREX24 exchange listing | 04/10/2018 |
+|  | KOMPLER exchange listing | 20/10/18 |
 |  | STEX exchange listing | 11/12/18 |
-|  | Cryptonex exchange listing | 17/12/18 |
+|  | CRYPTONEX exchange listing | 17/12/18 |
 | **2019/Q1:** | Verisafe approved project | 01/02/2019 |
-|  | KOLIN private alpha version | TBA |
-|  | Waves Labs application | Under review |
-|  | Bettertokens application | Under review |
-|  | Coinmarketcap application | Under review |
-| **2019/Q2:** | KOLIN private beta version | TBA |
-| **2019/Q3:** | KOLIN public alpha version | TBA |
-| **2019/Q4:** | KOLIN for Android & iOS | TBA |
-| **2020/Q1:** | Platform expansion to other languages | TBA |
+|  |  Kolin betting game release | 19/02/2019 |
+|  |  WavesMania sponsored game | 25/03/2019 |
+|  |  Five (5) billion Kolin burn  | 28/02/2019 |
+|  |  Explorer and Whitelist release  | 02/03/2019 |
+|  | SWFT exchange listing | 24/03/2019 |
+
+| **2019/Q2:** | KOLIN alpha version release | 01/04/2019 |
+|  | BLEUTRADE exchange listing | 01/04/2019 |
+|  | Start collaboration with Translate5 | 25/04/2019 |
+|  | Kolin API release | 29/04/2019 |
+|  | Kolin PoH program starts giving holder an 8% interest| 01/05/2019 |
+|  | Kolin approved as Twitter developer| 01/05/2019 |
+|  | Kolin is present in Coinpaprika| 01/05/2019 |
+|  | Kolin present in Waves Web 3.0 course| 18/05/2019 |
+|  | Kolin receives development support from the University of Edinburgh| 20/05/2019 |
+|  | Kolin voting release | 31/05/2019 |
+|  | Kolin graphical brand rebranding  | 31/05/2019 |
+| **2019/Q3:** |  | TBA |
+| **2019/Q4:** | |  |
+| **2020/Q1:** |  | TBA |
 | **TBA** | ISO17100 application | TBA |
 | **2020/Q2** | Unfreeze of team share allowing further developments. | 20/06/2020 |
 
