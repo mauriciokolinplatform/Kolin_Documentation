@@ -36,7 +36,8 @@
 |  | Kolin receives development support from the University of Edinburgh| 20/05/2019 |
 |  | Kolin voting release | 31/05/2019 |
 |  | Kolin graphical brand rebranding  | 31/05/2019 |
-| **2019/Q3:** |  | TBA |
+| **2019/Q3:** | Kolin listing in new Fanaticos Crypto exchange (ex Kompler) | TBA |
+|  | Kolin listing in new Kubo exchange (ex CryptoHub)  | 31/05/2019 |
 | **2019/Q4:** | |  |
 | **2020/Q1:** |  | TBA |
 | **TBA** | ISO17100 application | TBA |
