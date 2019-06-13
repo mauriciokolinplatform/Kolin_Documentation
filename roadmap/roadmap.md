@@ -39,7 +39,9 @@
 |  | Team share reduced to 13% by 600 M Kolin burn **Total supply 2,400,000,000** | 09/06/2019 |
 | **2019/Q3:** | Kolin listing in new Fanaticos Crypto exchange (ex Kompler) | TBA |
 |  | Kolin listing in new Kubo exchange (ex CryptoHub)  | TBA |
+|  | Kolin locker release  | TBA |
 | **2019/Q4:** |Kolin Launch | TBA |
+|  | Kolin chat release  | TBA |
 | **2020** | ISO17100 application | TBA |
 | **2020** | Unfreeze of team share allowing further developments. | 20/06/2020 |
 
