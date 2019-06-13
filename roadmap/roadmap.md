@@ -16,9 +16,9 @@
 |  | KOLIN's whitepaper release | 01/10/2018 |
 | **2018/Q4** | Smart contract activation \(freezing of team account\) | 01/10/2018 |
 |  | CREX24 exchange listing | 04/10/2018 |
-|  | KOMPLER exchange listing | 20/10/18 |
-|  | STEX exchange listing | 11/12/18 |
-|  | CRYPTONEX exchange listing | 17/12/18 |
+|  | KOMPLER exchange listing | 20/10/2018 |
+|  | STEX exchange listing | 11/12/2018 |
+|  | CRYPTONEX exchange listing | 17/12/2018 |
 | **2019/Q1:** | Verisafe approved project | 01/02/2019 |
 |  |  Kolin betting game release | 19/02/2019 |
 |  |  WavesMania sponsored game | 25/03/2019 |
