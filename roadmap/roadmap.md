@@ -22,7 +22,7 @@
 | **2019/Q1:** | Verisafe approved project | 01/02/2019 |
 |  |  Kolin betting game release | 19/02/2019 |
 |  |  WavesMania sponsored game | 25/03/2019 |
-|  |  Five (5) billion Kolin burn  | 28/02/2019 |
+|  |  Five (5) billion Kolin burn  **Total supply 3,000,000,000** | 28/02/2019 |
 |  |  Explorer and Whitelist release  | 02/03/2019 |
 |  | SWFT exchange listing | 24/03/2019 |
 | **2019/Q2:** | KOLIN alpha version release | 01/04/2019 |
@@ -36,7 +36,7 @@
 |  | Kolin receives development support from the University of Edinburgh| 20/05/2019 |
 |  | Kolin voting release | 31/05/2019 |
 |  | Kolin graphical brand rebranding  | 31/05/2019 |
-|  | Team share reduced to 13% by 600 M Kolin burn  | 09/06/2019 |
+|  | Team share reduced to 13% by 600 M Kolin burn **Total supply 2,400,000,000** | 09/06/2019 |
 | **2019/Q3:** | Kolin listing in new Fanaticos Crypto exchange (ex Kompler) | TBA |
 |  | Kolin listing in new Kubo exchange (ex CryptoHub)  | TBA |
 | **2019/Q4:** | |  |
