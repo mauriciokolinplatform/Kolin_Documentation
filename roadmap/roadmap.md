@@ -36,6 +36,7 @@
 |  | Kolin receives development support from the University of Edinburgh| 20/05/2019 |
 |  | Kolin voting release | 31/05/2019 |
 |  | Kolin graphical brand rebranding  | 31/05/2019 |
+|  | Team share reduced to 13% by 600 M Kolin burn  | 09/06/2019 |
 | **2019/Q3:** | Kolin listing in new Fanaticos Crypto exchange (ex Kompler) | TBA |
 |  | Kolin listing in new Kubo exchange (ex CryptoHub)  | TBA |
 | **2019/Q4:** | |  |
